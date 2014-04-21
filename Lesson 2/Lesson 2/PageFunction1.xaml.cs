@@ -17,7 +17,7 @@ namespace Lesson_2
     /// <summary>
     /// Interaction logic for PageFunction1.xaml
     /// </summary>
-    public partial class PageFunction1 : PageFunction<String>
+    public partial class PageFunction1 : PageFunction<Object>
     {
         public PageFunction1()
         {
@@ -26,16 +26,17 @@ namespace Lesson_2
 
         private void button1_Click(object sender, RoutedEventArgs e)
         {
-            ListBoxItem l = (ListBoxItem)listBox1.SelectedItem;
-            listBox1.Items.Remove(l);
-            listBox2.Items.Add(l);
+            ListBoxItem l = (ListBoxItem)ListBox1.SelectedItem;
+            ListBox1.Items.Remove(l);
+            ListBox2.Items.Add(l);
+            
         }
 
         private void button2_Click(object sender, RoutedEventArgs e)
         {
-            ListBoxItem l = (ListBoxItem)listBox2.SelectedItem;
-            listBox2.Items.Remove(l);
-            listBox1.Items.Add(l);
+            ListBoxItem l = (ListBoxItem)ListBox2.SelectedItem;
+            ListBox2.Items.Remove(l);
+            ListBox1.Items.Add(l);
         }
     }
 }

@@ -27,7 +27,18 @@ namespace Lesson_2
         private void button1_Click(object sender, RoutedEventArgs e)
         {
             PageFunction1 apage = new PageFunction1();
+            apage.Return += new ReturnEventHandler<object>(apage_Return);
             NavigationService.Navigate(apage);
+        }
+
+        private void apage_Return(object sender, ReturnEventArgs<object> e)
+        {
+            throw new NotImplementedException();
+            List<string> aList = (List<string>) e.Result;
+            foreach (string s in aList)
+            {
+                listBox1.Items.Add(s);
+            }
         }
     }
 }
