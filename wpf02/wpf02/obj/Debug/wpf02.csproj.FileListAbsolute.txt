@@ -1,0 +1,12 @@
+C:\pro\WPF\wpf02\wpf02\bin\Debug\wpf02.exe
+C:\pro\WPF\wpf02\wpf02\bin\Debug\wpf02.pdb
+C:\pro\WPF\wpf02\wpf02\obj\Debug\wpf02.csprojResolveAssemblyReference.cache
+C:\pro\WPF\wpf02\wpf02\obj\Debug\Page1.baml
+C:\pro\WPF\wpf02\wpf02\obj\Debug\Page1.g.cs
+C:\pro\WPF\wpf02\wpf02\obj\Debug\App.g.cs
+C:\pro\WPF\wpf02\wpf02\obj\Debug\wpf02_MarkupCompile.cache
+C:\pro\WPF\wpf02\wpf02\obj\Debug\wpf02.g.resources
+C:\pro\WPF\wpf02\wpf02\obj\Debug\wpf02.Properties.Resources.resources
+C:\pro\WPF\wpf02\wpf02\obj\Debug\wpf02.csproj.GenerateResource.Cache
+C:\pro\WPF\wpf02\wpf02\obj\Debug\wpf02.exe
+C:\pro\WPF\wpf02\wpf02\obj\Debug\wpf02.pdb
