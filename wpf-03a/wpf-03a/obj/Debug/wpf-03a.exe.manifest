@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="wpf-03a.exe" version="1.0.0.0" publicKeyToken="b1186763ada6105b" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="wpf-03a" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="wpf-03a.exe" parameters="" />
+    <hostInBrowser xmlns="urn:schemas-microsoft-com:asm.v3" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet version="1" class="System.Security.NamedPermissionSet" Name="Internet" Description="Default rights given to Internet applications" ID="Custom" SameSite="site">
+          <IPermission version="1" class="System.Security.Permissions.FileDialogPermission, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" Access="Open" />
+          <IPermission UserQuota="1024000" version="1" class="System.Security.Permissions.IsolatedStorageFilePermission, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" Allowed="ApplicationIsolationByUser" />
+          <IPermission version="1" class="System.Security.Permissions.SecurityPermission, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" Flags="Execution" />
+          <IPermission version="1" class="System.Security.Permissions.UIPermission, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" Clipboard="OwnClipboard" Window="SafeTopLevelWindows" />
+          <IPermission version="1" class="System.Drawing.Printing.PrintingPermission, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" Level="SafePrinting" />
+          <IPermission version="1" class="System.Security.Permissions.MediaPermission, WindowsBase, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35" Audio="SafeAudio" Image="SafeImage" Video="SafeVideo" />
+          <IPermission version="1" class="System.Security.Permissions.WebBrowserPermission, WindowsBase, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35" Level="Safe" />
+        </PermissionSet>
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!-- Параметры манифеста UAC
+            Если вы хотите изменить уровень контроля учетных записей Windows, 
+            замените узел requestedExecutionLevel одним из следующих.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+            Если вы хотите использовать виртуализацию файлов и реестра для обратной 
+            совместимости, удалите узел requestedExecutionLevel.
+        -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="wpf-03a.exe" size="9728">
+      <assemblyIdentity name="wpf-03a" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>tfI7V9nEAuUb9uESeWBHtAcRac8=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+<publisherIdentity name="CN=DESU\stv" issuerKeyHash="26297a9e4700cd1417e5e57e83b34bcde4b3e512" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>f/hOLml7f+TWbhEtKLCKQ/gK2Js=</DigestValue></Reference></SignedInfo><SignatureValue>VD+NhqmUy7pdvUq64TZwkTkw+8rOEtYgKn9CbP3DJDxxF4xG8hCizcmCuE0jrSmVfeaQwLzjpE91majGfAdYB4WjXts32F1VwXG3yWRAzZScXTAEGtvidDXQ7uBGIcd97COflm+Lmo1QGrYxQmMZP6L0baTAY3fVHeC92fAgksw=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>oEX9V2xmd9Jf65oqUcniHXmU1Es+ko+83DkIt7ZrBUQgz6QHbZDtywYU+CrUnT5dG4YkkdkRghGIiuqrgtF1Zsr1Su76QzjxMvLzRg65/A0noMR+YRqwgehvnpJrUNg7QyN4QbtrBIhQLB1WWHMv0LnY6qh11yVyEbIR35KaSmE=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="9bd80af8438ab0282d116ed6e47f7b692e4ef87f" Description="" Url=""><as:assemblyIdentity name="wpf-03a.exe" version="1.0.0.0" publicKeyToken="b1186763ada6105b" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=DESU\stv</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>nteGgJRKBgKC0cNc3oVVFVLpBO0=</DigestValue></Reference></SignedInfo><SignatureValue>AG/VKO7b01fz5a+Dd7K2b9fNBlYP1D+vKapQ5eZ2B+oPTuIjVIab4oRjX4nk6E62L1FSaUMrlPbNLWXI/XWfdBi5UcXrDvWhNWH/Fy5dad5qt+Vi4RgPxZnYNCZa7GG7dEaqdcq43jOihu+k8nSfveMMq0cRRZwZ6MilATohIBE=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>oEX9V2xmd9Jf65oqUcniHXmU1Es+ko+83DkIt7ZrBUQgz6QHbZDtywYU+CrUnT5dG4YkkdkRghGIiuqrgtF1Zsr1Su76QzjxMvLzRg65/A0noMR+YRqwgehvnpJrUNg7QyN4QbtrBIhQLB1WWHMv0LnY6qh11yVyEbIR35KaSmE=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIBuTCCASKgAwIBAgIQMwCRcpcqpptHcbclQoqavzANBgkqhkiG9w0BAQUFADAbMRkwFwYDVQQDHhAARABFAFMAVQBcAHMAdAB2MB4XDTE0MDQyMTE3NDQxMFoXDTE1MDQyMTIzNDQxMFowGzEZMBcGA1UEAx4QAEQARQBTAFUAXABzAHQAdjCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAoEX9V2xmd9Jf65oqUcniHXmU1Es+ko+83DkIt7ZrBUQgz6QHbZDtywYU+CrUnT5dG4YkkdkRghGIiuqrgtF1Zsr1Su76QzjxMvLzRg65/A0noMR+YRqwgehvnpJrUNg7QyN4QbtrBIhQLB1WWHMv0LnY6qh11yVyEbIR35KaSmECAwEAATANBgkqhkiG9w0BAQUFAAOBgQA+58CcsXZt2N0RrgPCsF/zO3oLzqqjkJuGs703p2LNYAlnwlGKAaPyFDKehH6OJm6NODuuUurNboCBnd9KiDJn+M9GCfGGvtQdzCCxTJoQ9YJcpKEv77C1cKZUzAU4i1QA+JMs3e0oEpt5EIx7qCuhT98157qZEbrYLzc2TdQJ9Q==</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

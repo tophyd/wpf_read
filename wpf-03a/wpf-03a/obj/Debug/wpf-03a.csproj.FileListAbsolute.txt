@@ -1,0 +1,17 @@
+C:\pro\WPF\wpf-03a\wpf-03a\bin\Debug\wpf-03a.exe.manifest
+C:\pro\WPF\wpf-03a\wpf-03a\bin\Debug\wpf-03a.xbap
+C:\pro\WPF\wpf-03a\wpf-03a\bin\Debug\wpf-03a.exe
+C:\pro\WPF\wpf-03a\wpf-03a\bin\Debug\wpf-03a.pdb
+C:\pro\WPF\wpf-03a\wpf-03a\obj\Debug\Page1.baml
+C:\pro\WPF\wpf-03a\wpf-03a\obj\Debug\Page1.g.cs
+C:\pro\WPF\wpf-03a\wpf-03a\obj\Debug\App.g.cs
+C:\pro\WPF\wpf-03a\wpf-03a\obj\Debug\wpf-03a_MarkupCompile.cache
+C:\pro\WPF\wpf-03a\wpf-03a\obj\Debug\wpf-03a.g.resources
+C:\pro\WPF\wpf-03a\wpf-03a\obj\Debug\wpf_03a.Properties.Resources.resources
+C:\pro\WPF\wpf-03a\wpf-03a\obj\Debug\wpf-03a.csproj.GenerateResource.Cache
+C:\pro\WPF\wpf-03a\wpf-03a\obj\Debug\wpf-03a.TrustInfo.xml
+C:\pro\WPF\wpf-03a\wpf-03a\obj\Debug\wpf-03a.exe.manifest
+C:\pro\WPF\wpf-03a\wpf-03a\obj\Debug\wpf-03a.xbap
+C:\pro\WPF\wpf-03a\wpf-03a\obj\Debug\wpf-03a.exe
+C:\pro\WPF\wpf-03a\wpf-03a\obj\Debug\wpf-03a.pdb
+C:\pro\WPF\wpf-03a\wpf-03a\obj\Debug\wpf-03a.csprojResolveAssemblyReference.cache
