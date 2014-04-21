@@ -1,0 +1,38 @@
+C:\Users\Matt\Documents\New File Structure For Exercises\CS\Partial\Chapter 1\Lesson 2\Lesson 2\bin\Debug\Lesson 2.exe.manifest
+C:\Users\Matt\Documents\New File Structure For Exercises\CS\Partial\Chapter 1\Lesson 2\Lesson 2\bin\Debug\Lesson 2.xbap
+C:\Users\Matt\Documents\New File Structure For Exercises\CS\Partial\Chapter 1\Lesson 2\Lesson 2\bin\Debug\Lesson 2.exe
+C:\Users\Matt\Documents\New File Structure For Exercises\CS\Partial\Chapter 1\Lesson 2\Lesson 2\bin\Debug\Lesson 2.pdb
+C:\Users\Matt\Documents\New File Structure For Exercises\CS\Partial\Chapter 1\Lesson 2\Lesson 2\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Matt\Documents\New File Structure For Exercises\CS\Partial\Chapter 1\Lesson 2\Lesson 2\obj\Debug\Page1.baml
+C:\Users\Matt\Documents\New File Structure For Exercises\CS\Partial\Chapter 1\Lesson 2\Lesson 2\obj\Debug\PageFunction1.baml
+C:\Users\Matt\Documents\New File Structure For Exercises\CS\Partial\Chapter 1\Lesson 2\Lesson 2\obj\Debug\Page1.g.cs
+C:\Users\Matt\Documents\New File Structure For Exercises\CS\Partial\Chapter 1\Lesson 2\Lesson 2\obj\Debug\PageFunction1.g.cs
+C:\Users\Matt\Documents\New File Structure For Exercises\CS\Partial\Chapter 1\Lesson 2\Lesson 2\obj\Debug\App.g.cs
+C:\Users\Matt\Documents\New File Structure For Exercises\CS\Partial\Chapter 1\Lesson 2\Lesson 2\obj\Debug\Lesson 2_MarkupCompile.cache
+C:\Users\Matt\Documents\New File Structure For Exercises\CS\Partial\Chapter 1\Lesson 2\Lesson 2\obj\Debug\Lesson 2.g.resources
+C:\Users\Matt\Documents\New File Structure For Exercises\CS\Partial\Chapter 1\Lesson 2\Lesson 2\obj\Debug\Lesson_2.Properties.Resources.resources
+C:\Users\Matt\Documents\New File Structure For Exercises\CS\Partial\Chapter 1\Lesson 2\Lesson 2\obj\Debug\Lesson 2.csproj.GenerateResource.Cache
+C:\Users\Matt\Documents\New File Structure For Exercises\CS\Partial\Chapter 1\Lesson 2\Lesson 2\obj\Debug\Lesson 2.TrustInfo.xml
+C:\Users\Matt\Documents\New File Structure For Exercises\CS\Partial\Chapter 1\Lesson 2\Lesson 2\obj\Debug\Lesson 2.exe.manifest
+C:\Users\Matt\Documents\New File Structure For Exercises\CS\Partial\Chapter 1\Lesson 2\Lesson 2\obj\Debug\Lesson 2.xbap
+C:\Users\Matt\Documents\New File Structure For Exercises\CS\Partial\Chapter 1\Lesson 2\Lesson 2\obj\Debug\Lesson 2.exe
+C:\Users\Matt\Documents\New File Structure For Exercises\CS\Partial\Chapter 1\Lesson 2\Lesson 2\obj\Debug\Lesson 2.pdb
+C:\pro\WPF\Lesson 2\Lesson 2\bin\Debug\Lesson 2.exe.manifest
+C:\pro\WPF\Lesson 2\Lesson 2\bin\Debug\Lesson 2.xbap
+C:\pro\WPF\Lesson 2\Lesson 2\bin\Debug\Lesson 2.exe
+C:\pro\WPF\Lesson 2\Lesson 2\bin\Debug\Lesson 2.pdb
+C:\pro\WPF\Lesson 2\Lesson 2\obj\Debug\Lesson 2.csprojResolveAssemblyReference.cache
+C:\pro\WPF\Lesson 2\Lesson 2\obj\Debug\Page1.baml
+C:\pro\WPF\Lesson 2\Lesson 2\obj\Debug\PageFunction1.baml
+C:\pro\WPF\Lesson 2\Lesson 2\obj\Debug\Page1.g.cs
+C:\pro\WPF\Lesson 2\Lesson 2\obj\Debug\PageFunction1.g.cs
+C:\pro\WPF\Lesson 2\Lesson 2\obj\Debug\App.g.cs
+C:\pro\WPF\Lesson 2\Lesson 2\obj\Debug\Lesson 2_MarkupCompile.cache
+C:\pro\WPF\Lesson 2\Lesson 2\obj\Debug\Lesson 2.g.resources
+C:\pro\WPF\Lesson 2\Lesson 2\obj\Debug\Lesson_2.Properties.Resources.resources
+C:\pro\WPF\Lesson 2\Lesson 2\obj\Debug\Lesson 2.csproj.GenerateResource.Cache
+C:\pro\WPF\Lesson 2\Lesson 2\obj\Debug\Lesson 2.TrustInfo.xml
+C:\pro\WPF\Lesson 2\Lesson 2\obj\Debug\Lesson 2.exe.manifest
+C:\pro\WPF\Lesson 2\Lesson 2\obj\Debug\Lesson 2.xbap
+C:\pro\WPF\Lesson 2\Lesson 2\obj\Debug\Lesson 2.exe
+C:\pro\WPF\Lesson 2\Lesson 2\obj\Debug\Lesson 2.pdb
