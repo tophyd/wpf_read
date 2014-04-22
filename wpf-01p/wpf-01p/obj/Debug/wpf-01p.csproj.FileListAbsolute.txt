@@ -1,0 +1,5 @@
+C:\pro\WPF\wpf-01p\wpf-01p\bin\Debug\wpf-01p.exe
+C:\pro\WPF\wpf-01p\wpf-01p\bin\Debug\wpf-01p.pdb
+C:\pro\WPF\wpf-01p\wpf-01p\obj\Debug\wpf-01p.csprojResolveAssemblyReference.cache
+C:\pro\WPF\wpf-01p\wpf-01p\obj\Debug\wpf-01p.exe
+C:\pro\WPF\wpf-01p\wpf-01p\obj\Debug\wpf-01p.pdb
