@@ -1,0 +1,5 @@
+C:\pro\WPF\ndataset\ndataset\bin\Debug\ndataset.exe
+C:\pro\WPF\ndataset\ndataset\bin\Debug\ndataset.pdb
+C:\pro\WPF\ndataset\ndataset\obj\Debug\ndataset.csprojResolveAssemblyReference.cache
+C:\pro\WPF\ndataset\ndataset\obj\Debug\ndataset.exe
+C:\pro\WPF\ndataset\ndataset\obj\Debug\ndataset.pdb
