@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Data;
 using System.Linq;
 using System.Text;
+using System.Xml;
 
 namespace ndataset
 {
@@ -10,6 +11,12 @@ namespace ndataset
     {
         static void Main(string[] args)
         {
+            
+           
+            DataSet previewDataSet=new DataSet();
+            //previewDataSet.Load(nXmlDocument);
+            previewDataSet.ReadXml("mx.xml");
+            previewDataSet.ReadXmlSchema("schm.xsd");
             DataSet carsInvenoryDS=new DataSet("Car inventory");
             carsInvenoryDS.ExtendedProperties["TimeStamp"] = DateTime.Now;
             carsInvenoryDS.ExtendedProperties["DataSetID"] = Guid.NewGuid();
@@ -17,9 +24,31 @@ namespace ndataset
 
             FillDataSet(carsInvenoryDS);
             PrintDataSet(carsInvenoryDS);
+            //PrintTable(carsInvenoryDS);
+            carsInvenoryDS.WriteXml("mx.xml");
+            carsInvenoryDS.WriteXmlSchema("schm.xsd");
+            
+            Console.WriteLine("================= load data++++");
+            PrintDataSet(previewDataSet);
            
             Console.ReadLine();
         }
+
+
+        static void PrintTable(DataTable dt)
+        {
+            // Создание объекта DataTableReader
+            DataTableReader dtReader = dt.CreateDataReader();
+
+            while (dtReader.Read())
+            {
+                for (int i = 0; i < dtReader.FieldCount; i++)
+                    Console.Write("{0}\t", dtReader.GetValue(i).ToString().Trim());
+                Console.WriteLine();
+            }
+            dtReader.Close();
+        }
+
 
         private static void PrintDataSet(DataSet ds)
         {
@@ -48,6 +77,7 @@ namespace ndataset
                     }
                     Console.WriteLine();
                 }
+                PrintTable(dt);
             }
         }
 

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<xs:schema id="AutoLot" targetNamespace="http://tempuri.org/XMLSchemal.xsd"
+xmlns:mstns="http://tempuri.org/XMLSchemal.xsd"
+xmlns:xs="http://www.w3.org/2001/XMLSchema"
+xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xs:element name="Product">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="CarID" msdata:ReadOnly="true"
+            msdata:AutoIncrement="true" type="xs:int" />
+        <xs:element name="Make" type="xs:string"></xs:element>
+        <xs:element name="Color" type="xs:string"></xs:element>
+        <xs:element name="PetName" type="xs:string"></xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
