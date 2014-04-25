@@ -20,7 +20,7 @@ namespace wpf_07
     /// </summary>
    // public static readonly RoutedEvent sClickEvent;
 
-    public partial class Window1 : Window
+    public partial class Window1
     {
         public Window1()
         {
@@ -29,18 +29,19 @@ namespace wpf_07
 
         private void textBox1_TextChanged(object sender, TextChangedEventArgs e) {
             MessageBox.Show("Event raised by TextBox");
-            e.Handled = (bool)radioButton1.IsChecked;
+            e.Handled = (bool)RadioButton1.IsChecked;
 
         }
 
         private void Grid_TextChanged(object sender, TextChangedEventArgs e) {
             MessageBox.Show("Event raised by grid");
-            e.Handled = (bool)radioButton2.IsChecked;
+            // ReSharper disable once PossibleInvalidOperationException
+            e.Handled = (bool)RadioButton2.IsChecked;
         }
 
         private void Window_TextChanged(object sender, TextChangedEventArgs e) {
             MessageBox.Show("Event raised by window");
-            e.Handled = (bool)radioButton3.IsChecked;
+            e.Handled = (bool)RadioButton3.IsChecked;
         }
 
         private void Grid_Click(object sender, RoutedEventArgs e) {

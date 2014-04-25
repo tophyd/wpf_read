@@ -3,10 +3,10 @@
     xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
     Title="Window1" Height="300" Width="300" TextBoxBase.TextChanged="Window_TextChanged" ButtonBase.Click="Window_Click">
     <Grid TextBoxBase.TextChanged="Grid_TextChanged" ButtonBase.Click="Grid_Click">
-        <TextBox Height="23" Margin="33,34,125,0" Name="textBox1" VerticalAlignment="Top" TextChanged="textBox1_TextChanged"/>
-        <RadioButton Height="16" Margin="33,77,125,0" Name="radioButton1" VerticalAlignment="Top">Handle TextBox.TextChanged in TextBox</RadioButton>
-        <RadioButton Margin="33,103,125,0" Name="radioButton2" Height="16" VerticalAlignment="Top">in Grid</RadioButton>
-        <RadioButton Margin="33,124,125,122" Name="radioButton3">in Window</RadioButton>
-        <Button Click="button1_Click" Height="23" HorizontalAlignment="Left" Margin="33,0,0,78" Name="button1" VerticalAlignment="Bottom" Width="75">Button Click</Button>
+        <TextBox Height="23" Margin="33,34,125,0" Name="TextBox1" VerticalAlignment="Top" TextChanged="textBox1_TextChanged"/>
+        <RadioButton Height="16" Margin="33,77,125,0" Name="RadioButton1" VerticalAlignment="Top">Handle TextBox.TextChanged in TextBox</RadioButton>
+        <RadioButton Margin="33,103,125,0" Name="RadioButton2" Height="16" VerticalAlignment="Top">in Grid</RadioButton>
+        <RadioButton Margin="33,124,125,122" Name="RadioButton3">in Window</RadioButton>
+        <Button Click="button1_Click" Height="23" HorizontalAlignment="Left" Margin="33,0,0,78" Name="Button1" VerticalAlignment="Bottom" Width="75">Button Click</Button>
     </Grid>
 </Window>
