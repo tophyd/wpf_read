@@ -42,5 +42,19 @@ namespace wpf_07
             MessageBox.Show("Event raised by window");
             e.Handled = (bool)radioButton3.IsChecked;
         }
+
+        private void Grid_Click(object sender, RoutedEventArgs e) {
+            MessageBox.Show("out Grid");
+
+        }
+
+        private void Window_Click(object sender, RoutedEventArgs e) {
+            MessageBox.Show("out window");
+
+        }
+
+        private void button1_Click(object sender, RoutedEventArgs e) {
+            MessageBox.Show("button/ yes/ is first ");
+        }
     }
 }
