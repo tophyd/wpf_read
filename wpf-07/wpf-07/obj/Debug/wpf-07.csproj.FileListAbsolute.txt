@@ -1,0 +1,12 @@
+C:\pro\WPF\wpf-07\wpf-07\bin\Debug\wpf-07.exe
+C:\pro\WPF\wpf-07\wpf-07\bin\Debug\wpf-07.pdb
+C:\pro\WPF\wpf-07\wpf-07\obj\Debug\ResolveAssemblyReference.cache
+C:\pro\WPF\wpf-07\wpf-07\obj\Debug\Window1.baml
+C:\pro\WPF\wpf-07\wpf-07\obj\Debug\Window1.g.cs
+C:\pro\WPF\wpf-07\wpf-07\obj\Debug\App.g.cs
+C:\pro\WPF\wpf-07\wpf-07\obj\Debug\wpf-07_MarkupCompile.cache
+C:\pro\WPF\wpf-07\wpf-07\obj\Debug\wpf-07.g.resources
+C:\pro\WPF\wpf-07\wpf-07\obj\Debug\wpf_07.Properties.Resources.resources
+C:\pro\WPF\wpf-07\wpf-07\obj\Debug\wpf-07.csproj.GenerateResource.Cache
+C:\pro\WPF\wpf-07\wpf-07\obj\Debug\wpf-07.exe
+C:\pro\WPF\wpf-07\wpf-07\obj\Debug\wpf-07.pdb
