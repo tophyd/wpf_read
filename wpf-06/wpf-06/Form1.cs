@@ -15,5 +15,12 @@ namespace wpf_06
         {
             InitializeComponent();
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            int? i = null;
+            string s = (i ?? Convert.ToInt32(i.HasValue)).ToString();
+
+        }
     }
 }
