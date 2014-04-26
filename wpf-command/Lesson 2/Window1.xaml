@@ -1,0 +1,16 @@
+﻿<Window x:Class="Lesson_2.Window1"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:lesson2="clr-namespace:Lesson_2"
+    Title="Window1" Height="300" Width="300">
+    <Grid>
+        <Menu Height="22" Margin="0,0,0,240" Name="Menu1" VerticalAlignment="Bottom">
+            <MenuItem Header="Menu Items">
+                <MenuItem Command="lesson2:CustomCommands.Launch" Header="Launch" />
+            </MenuItem>
+        </Menu>
+        <Button Command="lesson2:CustomCommands.Launch" Height="23"  Margin="12,38,0,0" Name="Button1" VerticalAlignment="Top" Width="75" >Launch</Button>
+        <CheckBox Height="16" Margin="12,83,94,0" Name="checkBox1" VerticalAlignment="Top">Launch Command Enabled</CheckBox>
+        <CheckBox Margin="12,114,0,0" Name="checkBox2" Height="16" HorizontalAlignment="Left" VerticalAlignment="Top" Width="120">Enable Launch command</CheckBox>
+    </Grid>
+</Window>

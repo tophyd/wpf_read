@@ -1,0 +1,25 @@
+C:\Users\Matt\Documents\New File Structure For Exercises\CS\Complete\Chapter 2\Lesson 2\Lesson 2\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Matt\Documents\New File Structure For Exercises\CS\Complete\Chapter 2\Lesson 2\Lesson 2\obj\Debug\Window1.baml
+C:\Users\Matt\Documents\New File Structure For Exercises\CS\Complete\Chapter 2\Lesson 2\Lesson 2\obj\Debug\Window1.g.cs
+C:\Users\Matt\Documents\New File Structure For Exercises\CS\Complete\Chapter 2\Lesson 2\Lesson 2\obj\Debug\App.g.cs
+C:\Users\Matt\Documents\New File Structure For Exercises\CS\Complete\Chapter 2\Lesson 2\Lesson 2\obj\Debug\Lesson 2_MarkupCompile.cache
+C:\Users\Matt\Documents\New File Structure For Exercises\CS\Complete\Chapter 2\Lesson 2\Lesson 2\obj\Debug\Lesson 2.g.resources
+C:\Users\Matt\Documents\New File Structure For Exercises\CS\Complete\Chapter 2\Lesson 2\Lesson 2\obj\Debug\Lesson_2.Properties.Resources.resources
+C:\Users\Matt\Documents\New File Structure For Exercises\CS\Complete\Chapter 2\Lesson 2\Lesson 2\obj\Debug\Lesson 2.csproj.GenerateResource.Cache
+C:\Users\Matt\Documents\New File Structure For Exercises\CS\Complete\Chapter 2\Lesson 2\Lesson 2\bin\Debug\Lesson 2.exe
+C:\Users\Matt\Documents\New File Structure For Exercises\CS\Complete\Chapter 2\Lesson 2\Lesson 2\bin\Debug\Lesson 2.pdb
+C:\Users\Matt\Documents\New File Structure For Exercises\CS\Complete\Chapter 2\Lesson 2\Lesson 2\obj\Debug\Lesson 2.exe
+C:\Users\Matt\Documents\New File Structure For Exercises\CS\Complete\Chapter 2\Lesson 2\Lesson 2\obj\Debug\Lesson 2.pdb
+C:\pro\WPF\wpf-command\Lesson 2\bin\Debug\Lesson 2.exe
+C:\pro\WPF\wpf-command\Lesson 2\bin\Debug\Lesson 2.pdb
+C:\pro\WPF\wpf-command\Lesson 2\obj\Debug\ResolveAssemblyReference.cache
+C:\pro\WPF\wpf-command\Lesson 2\obj\Debug\Window1.g.cs
+C:\pro\WPF\wpf-command\Lesson 2\obj\Debug\App.g.cs
+C:\pro\WPF\wpf-command\Lesson 2\obj\Debug\Lesson 2_MarkupCompile.cache
+C:\pro\WPF\wpf-command\Lesson 2\obj\Debug\Lesson 2_MarkupCompile.lref
+C:\pro\WPF\wpf-command\Lesson 2\obj\Debug\Window1.baml
+C:\pro\WPF\wpf-command\Lesson 2\obj\Debug\Lesson 2.g.resources
+C:\pro\WPF\wpf-command\Lesson 2\obj\Debug\Lesson_2.Properties.Resources.resources
+C:\pro\WPF\wpf-command\Lesson 2\obj\Debug\Lesson 2.csproj.GenerateResource.Cache
+C:\pro\WPF\wpf-command\Lesson 2\obj\Debug\Lesson 2.exe
+C:\pro\WPF\wpf-command\Lesson 2\obj\Debug\Lesson 2.pdb
