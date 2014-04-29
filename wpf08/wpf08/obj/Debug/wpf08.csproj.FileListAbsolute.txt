@@ -1,0 +1,12 @@
+C:\pro\WPF\wpf08\wpf08\bin\Debug\wpf08.exe
+C:\pro\WPF\wpf08\wpf08\bin\Debug\wpf08.pdb
+C:\pro\WPF\wpf08\wpf08\obj\Debug\ResolveAssemblyReference.cache
+C:\pro\WPF\wpf08\wpf08\obj\Debug\Window1.baml
+C:\pro\WPF\wpf08\wpf08\obj\Debug\Window1.g.cs
+C:\pro\WPF\wpf08\wpf08\obj\Debug\App.g.cs
+C:\pro\WPF\wpf08\wpf08\obj\Debug\wpf08_MarkupCompile.cache
+C:\pro\WPF\wpf08\wpf08\obj\Debug\wpf08.g.resources
+C:\pro\WPF\wpf08\wpf08\obj\Debug\wpf08.Properties.Resources.resources
+C:\pro\WPF\wpf08\wpf08\obj\Debug\wpf08.csproj.GenerateResource.Cache
+C:\pro\WPF\wpf08\wpf08\obj\Debug\wpf08.exe
+C:\pro\WPF\wpf08\wpf08\obj\Debug\wpf08.pdb

@@ -1,0 +1,13 @@
+C:\pro\WPF\wpf-parameters\wpf-parameters\obj\Debug\ResolveAssemblyReference.cache
+C:\pro\WPF\wpf-parameters\wpf-parameters\obj\Debug\Window1.baml
+C:\pro\WPF\wpf-parameters\wpf-parameters\obj\Debug\Window1.g.cs
+C:\pro\WPF\wpf-parameters\wpf-parameters\obj\Debug\App.g.cs
+C:\pro\WPF\wpf-parameters\wpf-parameters\obj\Debug\wpf-parameters_MarkupCompile.cache
+C:\pro\WPF\wpf-parameters\wpf-parameters\obj\Debug\wpf-parameters.g.resources
+C:\pro\WPF\wpf-parameters\wpf-parameters\obj\Debug\wpf_parameters.Properties.Resources.resources
+C:\pro\WPF\wpf-parameters\wpf-parameters\obj\Debug\wpf-parameters.csproj.GenerateResource.Cache
+C:\pro\WPF\wpf-parameters\wpf-parameters\bin\Debug\wpf-parameters.exe.config
+C:\pro\WPF\wpf-parameters\wpf-parameters\bin\Debug\wpf-parameters.exe
+C:\pro\WPF\wpf-parameters\wpf-parameters\bin\Debug\wpf-parameters.pdb
+C:\pro\WPF\wpf-parameters\wpf-parameters\obj\Debug\wpf-parameters.exe
+C:\pro\WPF\wpf-parameters\wpf-parameters\obj\Debug\wpf-parameters.pdb
