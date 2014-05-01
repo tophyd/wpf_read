@@ -1,0 +1,11 @@
+<?xml version="1.0" standalone="yes"?>
+<StationData>
+  <Conectors>
+    <Connector>Apk_dk</Connector>
+    <Port>P3(COM1)</Port>
+    <SenderID>1/(1)</SenderID>
+    <Interface>RS-485</Interface>
+    <SpeedUp />
+    <Remark />
+  </Conectors>
+</StationData>

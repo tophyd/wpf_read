@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfdataUPS xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/crWordForms">
+  <dataUPS>
+    <ipUPS>2.3.3.4</ipUPS>
+    <typeUPS>rrr(1А) шкаф ТО0</typeUPS>
+  </dataUPS>
+  <dataUPS>
+    <ipUPS>2.3.3.43</ipUPS>
+    <typeUPS>rrr(2А) шкаф ТО0</typeUPS>
+  </dataUPS>
+</ArrayOfdataUPS>

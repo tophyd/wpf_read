@@ -1,0 +1,59 @@
+<StationData>
+  <UPS>
+    <TypeUPS>rrr(1А) шкаф ТО0</TypeUPS>
+    <IP>2.3.3.4</IP>
+  </UPS>
+  <UPS>
+    <TypeUPS>rrr(2А) шкаф ТО0</TypeUPS>
+    <IP>2.3.3.43</IP>
+  </UPS>
+  <ARMS>
+    <ARMName>BNr</ARMName>
+    <LAN>LAN1...LAN2...</LAN>
+    <Password>PASSWORD</Password>
+    <PowerON>ON</PowerON>
+    <Video>0(0)</Video>
+    <Services>Apk dk Setun LinePrinter Adk_scb </Services>
+    <idARM>1</idARM>
+  </ARMS>
+  <ARMS>
+    <ARMName>BNrr</ARMName>
+    <LAN>LAN1...LAN2...</LAN>
+    <Password>PASSWORD</Password>
+    <PowerON>ON</PowerON>
+    <Video>0(0)</Video>
+    <Services>Apk dk Setun LinePrinter Adk_scb </Services>
+    <idARM>2</idARM>
+  </ARMS>
+  <EBILocks>
+    <NameEBILock>VCS_N1</NameEBILock>
+    <IDEBILock>id </IDEBILock>
+    <ESW>ESW1...ESW2...</ESW>
+  </EBILocks>
+  <EBILocks>
+    <NameEBILock>VCS_N2</NameEBILock>
+    <IDEBILock>id </IDEBILock>
+    <ESW>ESW1...ESW2...</ESW>
+  </EBILocks>
+  <EBILocks>
+    <NameEBILock>VCS_N2</NameEBILock>
+    <IDEBILock>id </IDEBILock>
+    <ESW>ESW1...ESW2...</ESW>
+  </EBILocks>
+  <Conectors>
+    <Connector>Gals</Connector>
+    <Port>P4(COM3)</Port>
+    <SenderID>1/(1)</SenderID>
+    <Interface>RS-485</Interface>
+    <SpeedUp>9600</SpeedUp>
+    <Remark />
+  </Conectors>
+  <Conectors>
+    <Connector>Gals</Connector>
+    <Port>P4(COM3)</Port>
+    <SenderID>1/(2)</SenderID>
+    <Interface>RS-485</Interface>
+    <SpeedUp>9600</SpeedUp>
+    <Remark />
+  </Conectors>
+</StationData>

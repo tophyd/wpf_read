@@ -1,0 +1,34 @@
+c:\users\sv.yarakayev\documents\visual studio 2012\Projects\crWordForms\crWordForms\obj\Debug\crWordForms.csprojResolveAssemblyReference.cache
+c:\users\sv.yarakayev\documents\visual studio 2012\Projects\crWordForms\crWordForms\obj\Debug\crWordForms.Properties.Resources.resources
+c:\users\sv.yarakayev\documents\visual studio 2012\Projects\crWordForms\crWordForms\obj\Debug\crWordForms.csproj.GenerateResource.Cache
+c:\users\sv.yarakayev\documents\visual studio 2012\Projects\crWordForms\crWordForms\obj\Debug\crWordForms.exe
+c:\users\sv.yarakayev\documents\visual studio 2012\Projects\crWordForms\crWordForms\obj\Debug\crWordForms.pdb
+C:\Users\sv.yarakayev\Documents\Visual Studio 2012\Projects\crWordForms\crWordForms\obj\Debug\crWordForms.InsertSubjectArm.resources
+C:\Users\sv.yarakayev\Documents\Visual Studio 2012\Projects\crWordForms\crWordForms\obj\Debug\crWordForms.InsertEBILock.resources
+C:\Users\sv.yarakayev\Documents\Visual Studio 2012\Projects\crWordForms\crWordForms\obj\Debug\crWordForms.MainFormSourceData.resources
+C:\Users\sv.yarakayev\Documents\Visual Studio 2012\Projects\crWordForms\crWordForms\obj\Debug\crWordForms.insertConvertors.resources
+C:\Users\sv.yarakayev\Documents\Visual Studio 2012\Projects\crWordForms\crWordForms\obj\Debug\crWordForms.insertUPS.resources
+D:\depot\lcss\test_pr\crWordForms\crWordForms\obj\Debug\crWordForms.exe
+D:\depot\lcss\test_pr\crWordForms\crWordForms\obj\Debug\crWordForms.pdb
+D:\depot\lcss\test_pr\crWordForms\crWordForms\obj\Debug\crWordForms.csprojResolveAssemblyReference.cache
+D:\depot\lcss\test_pr\crWordForms\crWordForms\obj\Debug\crWordForms.InsertConvertors.resources
+D:\depot\lcss\test_pr\crWordForms\crWordForms\obj\Debug\crWordForms.InsertUPS.resources
+D:\depot\lcss\test_pr\crWordForms\crWordForms\obj\Debug\crWordForms.MainFormSourceData.resources
+D:\depot\lcss\test_pr\crWordForms\crWordForms\obj\Debug\crWordForms.InsertEBILock.resources
+D:\depot\lcss\test_pr\crWordForms\crWordForms\obj\Debug\crWordForms.InsertSubjectArm.resources
+D:\depot\lcss\test_pr\crWordForms\crWordForms\obj\Debug\crWordForms.Properties.Resources.resources
+D:\depot\lcss\test_pr\crWordForms\crWordForms\obj\Debug\crWordForms.csproj.GenerateResource.Cache
+D:\depot\lcss\test_pr\crWordForms\crWordForms\mini.dotx
+D:\depot\lcss\test_pr\crWordForms\crWordForms\crWordForms.exe
+D:\depot\lcss\test_pr\crWordForms\crWordForms\crWordForms.pdb
+D:\depot\lcss\test_pr\crWordForms\crWordForms\IPAddressControlLib.dll
+D:\depot\lcss\test_pr\crWordForms\crWordForms\System.Windows.Forms.Ribbon.dll
+D:\depot\lcss\test_pr\crWordForms\crWordForms\System.Windows.Forms.Ribbon.pdb
+C:\Users\sv.yarakayev\Documents\Visual Studio 2012\Projects\crWordForms\crWordForms\mini.dotx
+C:\Users\sv.yarakayev\Documents\Visual Studio 2012\Projects\crWordForms\crWordForms\crWordForms.exe
+C:\Users\sv.yarakayev\Documents\Visual Studio 2012\Projects\crWordForms\crWordForms\crWordForms.pdb
+C:\Users\sv.yarakayev\Documents\Visual Studio 2012\Projects\crWordForms\crWordForms\IPAddressControlLib.dll
+C:\Users\sv.yarakayev\Documents\Visual Studio 2012\Projects\crWordForms\crWordForms\System.Windows.Forms.Ribbon.dll
+C:\Users\sv.yarakayev\Documents\Visual Studio 2012\Projects\crWordForms\crWordForms\System.Windows.Forms.Ribbon.pdb
+C:\Users\sv.yarakayev\Documents\Visual Studio 2012\Projects\crWordForms\crWordForms\ExpandableGridView.dll
+C:\Users\sv.yarakayev\Documents\Visual Studio 2012\Projects\crWordForms\crWordForms\ExpandableGridView.pdb

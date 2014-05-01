@@ -1,0 +1,47 @@
+<StationData>
+  <ARMS>
+    <LAN>LAN1192.1.1.1LAN2192.1.2.1</LAN>
+    <ARMName>Brt</ARMName>
+    <Password>PASSWORD</Password>
+    <PowerON>ON</PowerON>
+    <Video>3(2)</Video>
+    <Services>Apk dk Setun ServiceMonitoring </Services>
+    <idARM>1</idARM>
+  </ARMS>
+  <ARMS>
+    <LAN>LAN1192.1.1.1LAN2192.1.2.1</LAN>
+    <ARMName>Brt2</ARMName>
+    <Password>PASSWORD</Password>
+    <PowerON>ON</PowerON>
+    <Video>3(2)</Video>
+    <Services>Apk dk Setun ServiceMonitoring </Services>
+    <idARM>2</idARM>
+  </ARMS>
+  <ARMS>
+    <LAN>LAN1192.1.1.1LAN2192.1.2.1</LAN>
+    <ARMName>Brt23</ARMName>
+    <Password>PASSWORD</Password>
+    <PowerON>ON</PowerON>
+    <Video>3(2)</Video>
+    <Services>Apk dk Setun ServiceMonitoring Gals </Services>
+    <idARM>3</idARM>
+  </ARMS>
+  <ARMS>
+    <LAN>LAN1192.1.1.1LAN2192.1.2.1</LAN>
+    <ARMName>Brt231</ARMName>
+    <Password>PASSWORD</Password>
+    <PowerON>ON</PowerON>
+    <Video>3(2)</Video>
+    <Services>Apk dk Setun UpsMon ServiceMonitoring Gals </Services>
+    <idARM>4</idARM>
+  </ARMS>
+  <ARMS>
+    <LAN>LAN1192.1.1.1LAN2192.1.2.1</LAN>
+    <ARMName>Brt4</ARMName>
+    <Password>PASSWORD</Password>
+    <PowerON>ON</PowerON>
+    <Video>3(2)</Video>
+    <Services>RcosServer Apk dk Setun UpsMon ServiceMonitoring Gals </Services>
+    <idARM>5</idARM>
+  </ARMS>
+</StationData>

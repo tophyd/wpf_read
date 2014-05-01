@@ -1,0 +1,56 @@
+<?xml version="1.0" standalone="yes"?>
+<xs:schema id="StationData" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop">
+  <xs:element name="StationData" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:TimeStamp="04/30/2014 15:17:58" msprop:ID="45cf99de-afa1-4af6-a2c6-a4e4556e2912" msprop:Company="BOMBARDIER">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="UPS">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="TypeUPS" type="xs:string" minOccurs="0" />
+              <xs:element name="IP" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="ARMS">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="ARMName" msdata:Caption="Имя машины АРМ" type="xs:string" />
+              <xs:element name="LAN" type="xs:string" minOccurs="0" />
+              <xs:element name="Password" type="xs:string" minOccurs="0" />
+              <xs:element name="SenderID" type="xs:string" minOccurs="0" />
+              <xs:element name="PowerON" type="xs:string" minOccurs="0" />
+              <xs:element name="Video" type="xs:string" minOccurs="0" />
+              <xs:element name="Services" type="xs:string" minOccurs="0" />
+              <xs:element name="idARM" msdata:AutoIncrement="true" type="xs:int" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="EBILocks">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="NameEBILock" type="xs:string" minOccurs="0" />
+              <xs:element name="IDEBILock" type="xs:string" minOccurs="0" />
+              <xs:element name="ESW" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="Conectors">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Connector" type="xs:string" minOccurs="0" />
+              <xs:element name="Port" type="xs:string" minOccurs="0" />
+              <xs:element name="SenderID" type="xs:string" minOccurs="0" />
+              <xs:element name="Interface" type="xs:string" minOccurs="0" />
+              <xs:element name="SpeedUp" type="xs:string" minOccurs="0" />
+              <xs:element name="Remark" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//ARMS" />
+      <xs:field xpath="idARM" />
+    </xs:unique>
+  </xs:element>
+</xs:schema>
